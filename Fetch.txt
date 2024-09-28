@@ -1,0 +1,2 @@
+Fetch Example. When you do a fetch in bash, your local repository (repository in your local machine) knows about the updated status of the repository on the server but the changes are not showcased in you local pc.
+To see the changes, we do "git merge" which adds the changes done by someone else to your local repository
